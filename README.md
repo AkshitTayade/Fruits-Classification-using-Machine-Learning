@@ -13,9 +13,9 @@ Our team of three members acquired 40 image samples for each of the fruits — a
 ## 2. EDA
 
 <p align='center'>
-<img alt="IMG" src="https://github.com/AkshitTayade/Fruits-Classification-using-ML/blob/master/readme_images/Screenshot%202022-04-02%20at%2010.22.49%20PM.png"/>
+<img alt="IMG" src="https://github.com/AkshitTayade/Fruits-Classification-using-Machine-Learning/blob/master/readme_images/Screenshot%202022-04-02%20at%2010.22.49%20PM.png"/>
 
-<img alt="IMG" src="https://github.com/AkshitTayade/Fruits-Classification-using-ML/blob/master/readme_images/Screenshot%202022-04-02%20at%2010.22.56%20PM.png"/>
+<img alt="IMG" src="https://github.com/AkshitTayade/Fruits-Classification-using-Machine-Learning/blob/master/readme_images/Screenshot%202022-04-02%20at%2010.22.56%20PM.png"/>
 </p>
 
 <p align='justify'>
